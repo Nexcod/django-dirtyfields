@@ -6,6 +6,9 @@ ChangeLog
 unreleased
 ------
 
+*Changed:*
+    - Only look at the file name when determining File based dirty fields.
+
 
 .. _v1.8.1:
 
